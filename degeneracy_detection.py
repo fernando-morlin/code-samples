@@ -1,8 +1,9 @@
 # This code sample is a result of my master's dissertation, called
 # "Detection of rigid subchains in kinematic chains by means of matroid theory".
+#  https://repositorio.ufsc.br/handle/123456789/226832
 #
 # This algorithm was implemented in the SageMath environment.
-# https://www.sagemath.org/
+#  https://www.sagemath.org/
 #
 # It is applied to check whether or not graphs representing
 # mechanisms/machines contain rigid subchains.
