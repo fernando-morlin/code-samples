@@ -17,7 +17,7 @@ from sage.graphs.graph_input import from_graph6
 from sage.all import *
 
 def mobility(rank, joints, screw_system):
-    # The function computes the mobility of a chain.
+    # This function computes the mobility of a chain.
     chain_mobility = screw_system*(rank - joints) + joints
     return chain_mobility
 
