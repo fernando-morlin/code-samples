@@ -1,4 +1,4 @@
-# This code sample is a result of my master's dissertation, called
+# This code sample is a result of my master's thesis, called
 # "Detection of rigid subchains in kinematic chains by means of matroid theory".
 #  https://repositorio.ufsc.br/handle/123456789/226832
 #
